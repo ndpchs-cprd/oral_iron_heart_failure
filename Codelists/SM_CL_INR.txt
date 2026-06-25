@@ -1,0 +1,7 @@
+	MedCodeId	Observations	Term	INR
+11340	a257472014	30000000	International normalised ratio	INR
+205237	a12680521000006119	500000	INR - international normalised ratio	INR
+11341	a257473016	500000	INR - international normal ratio normal	INR
+158320	a4594611000006117	2000	INR - Internationalised ratio	INR
+197858	a7971121000006113	600	INR (International normalised ratio)	INR
+197857	a7971101000006115	40	International normalised ratio	INR
