@@ -1,0 +1,471 @@
+﻿MedCodeId	Observations	Term	SnomedCTConceptId	Classification
+a745851000006117	3020955	Iron deficiency anaemia	b87522002	
+a399230013	2410809	Anaemia	b271737000	
+a505888017	841695	Pernicious anaemia	b84027009	
+a493975011	423422	Microcytic hypochromic anaemia	b44666001	
+a29388801	380866	Iron deficiency anaemia NOS	b87522002	
+a351067016	149910	Normocytic anaemia	b300980002	
+a293880015	139799	Unspecified iron deficiency anaemia	b87522002	
+a257185017	124808	Haemoglobin low	b165397008	
+a62261000006118	120952	Vitamin B12-deficient megaloblastic anaemia	b49472006	
+a703501000006114	106583	Microcytic - hypochromic anaemia	b44666001	
+a399193019	81043	Deficiency anaemias	b267513007	
+a14118100000611	74947	Sickle cell anaemia	b127040003	Inherited
+a731981000006116	72523	Macrocytic anaemia	b83414005	
+a399198011	69475	Megaloblastic anaemia due to vitamin B>12< deficiency	b49472006	
+a306137018	64802	Iron deficiency anaemia of pregnancy	b199248002	
+a294251014	51788	Chronic anaemia	b191268006	
+a480781000006112	50093	"Anaemia in mother complicating pregnancy, childbirth AND/OR puerperium"	b45828008	
+a62281000006111	46723	Vitamin B>12< deficiency anaemia	b49472006	
+a763221000006115	45047	Megaloblastic anaemia due to folate deficiency	b85649008	
+a745811000006118	39940	Anaemia due to chronic blood loss	b413533008	
+a351071018	37494	Anaemia	b271737000	
+a141211000006114	29597	Sickle cell anaemia with crisis	b417425009	Inherited
+a9312601	24657	Hereditary spherocytosis	b55995005	Inherited
+a257186016	22858	Haemoglobin borderline low	b165398003	
+a789001000006115	22304	Hypochromic - microcytic anaemia	b44666001	
+a492446019	22250	Thalassaemia	b40108008	Inherited
+a500191000006115	21723	Autoimmune haemolytic anaemia	b413603009	
+a293864013	17901	Iron deficiency anaemia due to dietary causes	b191128004	
+a38181000006111	16430	Other and unspecified anaemias	b271737000	
+a294567019	16152	[X]Other iron deficiency anaemias	b87522002	
+a882041000006112	15962	Anaemia NOS	b668381000000100	
+a448863016	15040	Aplastic anaemia	b306058006	
+a293948018	14928	Combined B12 and folate deficiency anaemia	b191154007	
+a813861000006112	14923	Haemolytic anaemia	b61261009	
+a351097012	14453	Macrocytic anemia	b83414005	
+a500268011	13834	Beta thalassaemia	b65959000	Inherited
+a306133019	13276	Anaemia during pregnancy - baby not yet delivered	b199246003	
+a480871000006117	10832	Anaemia of chronic renal failure	b49708008	
+a294603013	10566	Anaemia of chronic disease	b234347009	
+a399201018	9385	Vitamin B12 deficiency anaemia due to dietary causes	b267517008	
+a294572011	9184	Folate deficiency anaemia	b85649008	
+a501134015	8781	Alpha thalassaemia syndrome	b68913001	Inherited
+a906551000006112	8575	[RFC] Pernicious anaemia	b906551000006108	
+a29402101	8060	Thalassaemia minor	b19442009	Inherited
+a306138011	7628	Anaemia during pregnancy/childbirth/puerperium NOS	b45828008	
+a881921000006111	7069	Anaemias	b267513007	
+a496576014	6922	Megaloblastic anaemia	b53165003	
+a294291012	6904	Anaemia	b271737000	
+a257182019	6667	Haemoglobin very low	b165396004	
+a493120017	6544	Sideroblastic anaemia	b41841004	
+a454255014	6346	Anaemia secondary to renal failure	b310647000	
+a17918100000611	5685	"Refractory anaemia, unspecified"	b109996008	
+a15075191000006117	5544	Haemoglobin below reference range	b165397008	
+a494753011	5287	Anaemia of prematurity	b47100003	
+a39919601	5196	Other deficiency anaemias	b267513007	
+a293981017	4387	Deficiency anaemias NOS	b267513007	
+a1723221000000117	4319	Seen in sickle cell and thalassaemia clinic	b705064001	Inherited
+a501116019	4195	Beta minor thalassaemia	b269175006	Inherited
+a510091000006118	4052	Beta thalassaemia major	b26682008	Inherited
+a294579019	3993	"[X]Vitamin B12 deficiency anaemia, unspecified"	b49472006	
+a763231000006117	3908	Folate deficiency anaemia due to dietary causes	b267518003	
+a6905701000006112	3846	Sickle cell disease	b417357006	Inherited
+a499268014	3809	Glucose-6-phosphate dehydrogenase deficiency anaemia	b62403005	
+a294102016	3544	Autoimmune haemolytic anaemia NOS	b413603009	
+a399195014	3400	Iron deficiency anemia	b87522002	
+a293946019	3235	Other specified megaloblastic anaemia NEC	b53165003	
+a294148013	3202	Aplastic and other anaemias	b271737000	
+a141221000006118	3196	Sickle cell anaemia with haemoglobin C disease	b35434009	Inherited
+a454071000006113	3151	Acquired haemolytic anaemia	b4854004	
+a960301000006116	3004	Anaemia	b960301000006100	
+a50665101	2844	Folic acid deficiency anaemia	b85649008	
+a506338100000611	2833	Microcytic anaemia	b234349007	
+a293977017	2753	[X]Megaloblastic anaemia NOS	b53165003	
+a216421701	2607	RBC's - sickle cells present	b385472000	Inherited
+a141261000006112	2552	Haemoglobin S/beta thalassaemia	b127041004	Inherited
+a29392401	2390	Other vitamin B12 deficiency anaemia NOS	b49472006	
+a294145011	2114	Haemolytic anaemias NOS	b61261009	
+a745801000006116	1999	Iron deficiency anaemia due to blood loss	b413533008	
+a351092018	1896	Normocytic anaemia due to chronic blood loss	b234352004	
+a141191000006113	1761	Sickle-cell anaemia NOS	b127040003	
+a294093015	1715	Primary cold-type haemolytic anaemia	b191210005	
+a29778001	1604	Proliferative retinopathy due to sickle cell disease	b193370005	Inherited
+a821381000006117	1530	Hereditary haemolytic anaemia	b38911009	Inherited
+a293877016	1435	Iron deficiency anemia	b87522002	
+a763261000006114	1423	Folate-deficiency anaemia NOS	b85649008	
+a399209016	1365	Thalassaemia NOS	b40108008	Inherited
+a294290013	1329	Other specified anaemias	b271737000	
+a887991000006119	1288	Preg. + anaemia	b45828008	
+a480731000006111	1265	Anaemia - unspecified whether in pregnancy or the puerperium	b45828008	
+a510081000006116	1264	Beta thalassaemia intermedia	b191189009	Inherited
+a12218521000006116	1262	Sickle cell-haemoglobin SS disease	b127040003	Inherited
+a141201000006111	1196	Sickle-cell anaemia of unspecified type	b127040003	
+a88198100000611	1185	Thalassaemias	b40108008	Inherited
+a294139015	1172	Acquired haemolytic anaemia NOS	b4854004	
+a399206011	1152	Thalassaemia major	b75451007	Inherited
+a62031000006117	1061	Vitamin B12 deficiency anaemia due to malabsorption with proteinuria	b191142007	
+a293885013	1058	Idiopathic hypochromic anaemia	b191136008	
+a2535668013	1039	Refractory anaemia with sideroblasts	b109998009	
+a344913019	1026	Refractory anaemia	b109996008	
+a497451015	953	Acquired aplastic anaemia	b55907008	
+a480821000006118	945	Anaemia in the puerperium - baby delivered during current episode of care	b199245004	
+a12761691000006115	944	Iron deficiency anemia	b87522002	
+a881941000006116	908	Other vit B12 defic. anaemia	b49472006	
+a29458601	900	[X]Other thalassaemias	b40108008	Inherited
+a413591000006113	870	[X]Other sickle-cell disorders	b417357006	
+a294278011	865	Other specified anaemia NOS	b271737000	
+a3857521000006111	832	Macrocytic anaemia	b83414005	
+a294245016	829	Anaemia in neoplastic disease	b191265009	
+a306129014	819	Anaemia during pregnancy - baby delivered	b199244000	
+a480831000006115	810	Anaemia in the puerperium - baby delivered during previous episode of care	b199247007	
+a294568012	807	Vitamin B12 deficiency anemia due to dietary causes	b267517008	
+a15581000006119	767	Other specified anaemias	b271737000	
+a3572551000006118	702	beta Thalassaemia	b65959000	Inherited
+a200541100000611	700	Sickle cell disease annual review	b2005411000006106	Inherited
+a399228011	684	Acute posthaemorrhagic anaemia	b267530009	
+a29400001	677	Haemolytic anaemia due to pyruvate kinase deficiency	b191178002	Inherited
+a351150014	671	Homozygous alpha thalassaemia	b234383000	Inherited
+a5063191000006111	670	Iron deficiency without anaemia	b234340006	
+a294085015	657	Hereditary haemolytic anaemia NOS	b38911009	Inherited
+a186311000006115	651	Refractory anaemia with excess blasts	b398623004	
+a294141019	564	Acquired spherocytosis	b191228007	Inherited
+a294571016	555	[X]Other vitamin B12 deficiency anaemias	b49472006	
+a474030011	533	Thalassaemia with haemoglobin S disease	b127041004	Inherited
+a506650011	516	Folate deficiency anaemia	b85649008	
+a906571000006119	516	[RFC] Iron deficiency anaemia	b906571000006103	
+a496498015	503	Congenital dyserythropoietic anaemia	b52951008	Inherited
+a294190019	502	Aplastic anaemia due to chronic disease	b191244003	
+a445119014	495	Normocytic anaemia following acute bleed	b303060002	
+a477758018	427	Delta-beta thalassaemia	b16360009	Inherited
+a294582012	423	[X]Haemolytic anaemias	b61261009	
+a29397801	407	Other specified deficiency anaemias	b267513007	
+a499626019	401	Congenital anaemia	b63565007	Inherited
+a294275014	394	Other specified other anaemia	b271737000	
+a690665100000611	369	Sickle cell crisis	b417425009	Inherited
+a2992501000006112	361	Fanconi's anaemia	b30575002	
+a294564014	360	Nutritional anaemia	b66612000	
+a13031341000006117	350	Anemia	b271737000	
+a121634001	326	Fanconi's familial refractory anaemia	b30575002	Inherited
+a292273018	322	"[X]Refractory anaemia, unspecified"	b109996008	
+a2297161000000112	308	Referral to sickle cell and thalassaemia service	b892061000000104	Inherited
+a495896017	298	Microangiopathic haemolytic anaemia	b51071000	
+a399225014	291	Acquired aplastic anaemia NOS	b55907008	
+a351100019	285	Megaloblastic anaemia NOS	b53165003	
+a29414401	276	Other specified haemolytic anaemias	b61261009	
+a39920501	272	Other deficiency anaemias NOS	b267513007	
+a294227016	270	Aplastic anaemia NOS	b306058006	
+a2808511000006115	262	Heterozygous thalassaemia	b19442009	Inherited
+a1815761000006115	261	Refractory anaemia with ringed sideroblasts	b109998009	
+a29395901	235	Other specified nutritional deficiency anaemia	b267513007	
+a294105019	235	Non-autoimmune haemolytic anaemia	b191216004	
+a223491000000112	235	Addison's anaemia	b84027009	
+a1216339013	234	Fanconi's hypoplastic anaemia	b30575002	
+a294607014	233	[X]Other specified anaemias	b271737000	
+a351070017	230	Normocytic anaemia due to aplasia	b234343008	
+a294223017	215	Idiopathic aplastic anaemia	b191256002	
+a293949014	211	Other specified megaloblastic anaemia NEC NOS	b53165003	
+a881961000006117	202	Megoblastic anaemia NOS	b579711000000100	
+a2380521000000115	200	Referral to sickle cell specialist nurse	b928871000000100	Inherited
+a1216006019	195	[M] Refractory anaemia with sideroblasts	b128846006	
+a291252015	191	"Refractory anaemia without sideroblasts, so stated"	b189509003	
+a3620681000006118	191	alpha Thalassaemia	b68913001	Inherited
+a2773441000006118	188	Spherocytosis	b17235000	Inherited
+a507621012	188	Sideropenic anaemia	b87522002	
+a666721000006112	176	Fanconi-de-Toni syndrome	b62332007	
+a23676016	169	Sickle cell nephropathy	b13886001	Inherited
+a1216286014	169	Hypoplastic anaemia - familial	b28975000	Inherited
+a294106018	165	Mechanical haemolytic anaemia	b191217008	
+a2137201000000112	153	Refractory anaemia with multilineage dysplasia	b820601000000103	
+a745101000006113	153	Leukoerythroblastic anaemia	b2694001	
+a763251000006112	152	Folate-deficiency anaemia due to malabsorption	b191149003	
+a1216009014	151	[M] Refractory anaemia with excess of blasts	b128847002	
+a2927331000006118	151	Homozygous beta thalassaemia	b26682008	Inherited
+a5063361000006117	147	Anaemia of renal disease	b234348004	
+a351101015	140	Megaloblastic anaemia due to dietary causes	b234358000	
+a294094014	137	Primary warm-type haemolytic anaemia	b191211009	
+a294211011	134	Transient hypoplastic anaemia	b191251007	
+a3070701000006112	130	Sickle cell-haemoglobin C disease	b35434009	Inherited
+a3922721000006113	127	IDA - Iron deficiency anaemia	b87522002	
+a354466018	122	Acquired Fanconi syndrome	b236467001	
+a582091000006116	121	Congenital dyshaematopoietic anaemia	b52951008	Inherited
+a1014381000006114	116	Adverse reaction to Drugs Used In Iron Deficiency Anaemia	b1014381000006105	
+a590121000006115	115	Constitutional aplastic anaemia	b28975000	
+a141231000006115	113	Sickle-cell anaemia with haemoglobin D disease	b25472008	Inherited
+a507619019	113	Asiderotic anaemia	b87522002	
+a351104011	111	Vegan's anaemia	b234360003	
+a763271000006119	109	"Folate-deficiency anaemia, drug induced"	b191148006	
+a14060271000006118	106	Alpha thalassaemia	b68913001	Inherited
+a293952018	106	Protein-deficiency anaemia	b85746008	
+a3308541000006113	104	Sickle cell	b49938009	Inherited
+a508244016	96	Congenital hypoplastic anaemia	b28975000	Inherited
+a76324100000611	93	Folate-deficiency anaemia due to liver disorders	b191150003	
+a499346019	92	Congenital sideroblastic anaemia	b48983004	Inherited
+a294097019	90	Secondary cold-type haemolytic anaemia	b191212002	
+a508873014	86	Acquired sideroblastic anaemia	b90175006	
+a782613100000611	82	Iron-refractory iron deficiency anaemia	b722005000	
+a5063391000006113	81	Microcytic anemia	b234349007	
+a15075501000006117	79	Mean corpuscular haemoglobin below reference range	b165439008	
+a141241000006113	78	Sickle-cell anaemia with haemoglobin E disease	b47024008	Inherited
+a4418041000006114	75	Refractory anaemia with excess blasts	b128847002	
+a3505252012	74	Alpha-thalassaemia intellectual disability syndrome linked to chromosome 16	b734349003	Inherited
+a504771011	72	Drug-induced haemolytic anaemia	b81711008	
+a4392911000006118	71	Sickle cell-beta-thalassaemia	b127041004	Inherited
+a354465019	67	Congenital Fanconi syndrome	b236466005	Inherited
+a3944001000006113	67	Diamond-Blackfan anaemia	b88854002	Inherited
+a93198100000611	64	Anaemia of chronic disease	b389601000000102	
+a894411000006114	63	Anaemia - due to isoimm.	b206434001	
+a504528016	63	Achlorhydric anaemia	b80875006	
+a294236017	62	Sideroblastic anaemia NOS	b41841004	
+a15075541000006115	62	Mean corpuscular haemoglobin concentration below reference range	b165447008	Inherited
+a7597991000006117	60	Seen in sickle cell and thalassemia clinic	b705064001	Inherited
+a399223019	58	Aplastic anaemia due to drugs	b267527002	
+a294082017	58	Other specified hereditary haemolytic anaemia NOS	b38911009	Inherited
+a294595019	57	[X]Other nonautoimmune haemolytic anaemias	b191216004	
+a354468017	56	Adult Fanconi syndrome	b236468006	
+a294111016	56	Haemolytic anaemia due to infection	b38689004	
+a2684701000006112	55	Sickle cell retinopathy	b11603001	Inherited
+a13031551000006111	55	Macrocytic anemia	b83414005	
+a4761111000006113	55	Folate deficiency anaemia due to malabsorption	b191149003	
+a351241000000113	54	Hypoplastic haemolytic and renal anaemia drugs Band 1	b221231000000105	
+a294198014	53	Aplastic anaemia due to infection	b191246001	
+a294593014	52	[X]Other autoimmune haemolytic anaemias	b413603009	
+a110881000006115	52	Thalassaemia major - Cooley's anaemia	b26682008	Inherited
+a711521000006117	52	Mediterranean anaemia	b40108008	
+a451077018	51	Anaemia in ovarian carcinoma	b307726001	
+a179151000006119	49	Refractory anaemia with excess blasts in transformation (clinical)	b110000005	
+a6614301000006114	49	Cold autoimmune haemolytic anaemia	b398937006	
+a294590012	49	[X]Other specified hereditary haemolytic anaemias	b38911009	Inherited
+a2541851000006119	47	Leucoerythroblastic anaemia	b2694001	
+a8212401000006115	47	Anaemia co-occurrent and due to chronic kidney disease stage 3	b691421000119108	
+a5887431000006113	45	Normocytic anemia	b300980002	
+a881971000006112	45	Nutritional anaemias NOS	b623661000000101	
+a90654100000611	43	[RFC] Anaemias	b906541000006106	
+a881991000006113	42	Other hered. haem. anaemias	b597871000000103	
+a293999013	40	Haemolytic anaemia due to hexokinase deficiency	b191177007	
+a3255311000006112	39	Normocytic normochromic anaemia	b46737006	
+a297589013	37	Myasthenic syndrome due to pernicious anaemia	b193213003	
+a417327100000611	37	Refractory anaemia (clinical)	b109996008	
+a293925011	37	Congenital folate malabsorption anaemia	b191146005	Inherited
+a29423101	35	Pyridoxine-responsive sideroblastic anaemia	b191260004	
+a2938141000006114	35	Anaemia of pregnancy	b27342004	
+a881931000006114	34	Deficiency anaemias excl. iron	b643101000000109	
+a1216755016	34	Perinatal jaundice from hereditary haemolytic anaemias	b56921004	Inherited
+a8300841000006112	34	Recurrent anaemia	b866381000000109	
+a453221019	33	Drug-induced autoimmune haemolytic anaemia	b309742004	
+a293960017	33	Anaemia due to scurvy	b191161006	
+a1014371000006111	32	Adverse reaction to Drugs Used In Anaemias And Some Other Blood Disorders	b1014371000006107	
+a787861000006116	31	Hypoplastic anaemia due to drug or chemical substance	b267527002	
+a3671121000006115	29	Blackfan-Diamond anaemia	b71988008	
+a4417981000006117	29	Refractory anaemia with sideroblasts	b128846006	
+a7826141000006117	29	Iron-refractory iron deficiency anemia	b722005000	
+a316603018	29	Perinatal jaundice from hereditary haemolytic anaemia	b56921004	Inherited
+a787871000006111	29	Hypoplastic anaemia due to infection	b191246001	
+a12084841000006111	28	Vaso-occlusive pain episode in sickle cell disease	b769167005	Inherited
+a293961018	28	Vitamin C deficiency anaemia	b191161006	
+a3922691000006115	27	IDA - Iron deficiency anemia	b87522002	
+a882021000006117	27	Acquired haem. anaemia NOS	b597931000000109	
+a4761091000006116	27	"Folate deficiency anaemia, drug-induced"	b191148006	
+a582791000006119	27	Congenital Heinz-body anaemia	b18273004	Inherited
+a294109013	26	Toxic haemolytic anaemia	b191218003	
+a3794401000006118	26	beta^+^ Thalassaemia	b79592006	Inherited
+a1692351000006115	25	GP81 - lower rate-sent to HB	b21971000000106	
+a4762111000006118	24	Chronic anemia	b191268006	
+a294112011	24	Other specified non-autoimmune haemolytic anaemia	b191216004	
+a294007013	24	Enzyme deficiency haemolytic anaemia NOS	b38911009	
+a4592261000006114	23	Hemoglobin low	b165397008	
+a6028441000006112	23	Anaemia during the puerperium	b313291009	
+a3620051000006119	23	"Congenital dyserythropoietic anaemia, type II"	b68870007	Inherited
+a2584231000006117	21	Alpha thalassaemia major	b5300004	Inherited
+a1405925100000611	21	Perinatal jaundice due to hereditary haemolytic anaemia	b56921004	Inherited
+a3514431000006111	21	G6PD deficiency anemia	b62403005	
+a315831000006119	21	[M] Refractory anaemia with excess of blasts with transformation	b128848007	
+a293969016	21	Other specified nutritional deficiency anaemia NOS	b267513007	
+a29407901	21	Other specified hereditary haemolytic anaemias	b38911009	Inherited
+a294232015	20	Secondary sideroblastic anaemia due to disease	b191261000	
+a351074014	20	von Jaksch's anaemia	b234345001	
+a293956015	19	Anemia due to protein deficiency	b85746008	
+a8364861000006119	19	Injury following GHB (gamma hydroxybutyrate) use	b984881000000100	
+a3794451000006119	18	Beta plus thalassaemia	b79592006	Inherited
+a294575013	18	"[X]Other megaloblastic anaemias, not elsewhere classified"	b53165003	
+a293884012	18	Chlorotic anaemia	b87522002	
+a351107016	18	Biermer's congenital pernicious anaemia	b234362006	Inherited
+a4761161000006111	18	Combined B12 and folate deficiency anemia	b191154007	
+a11998051000006118	17	X chromosome-linked sideroblastic anaemia	b48983004	
+a5063341000006116	16	Anaemia of chronic disorder	b234347009	
+a991611000006116	16	Anaemia of chronic disease	b191268006	
+a256243100000611	15	Warm autoimmune haemolytic anaemia	b3978000	
+a711531000006119	15	Mediterranean anaemia	b40108008	
+a5063371000006112	14	Anemia of renal disease	b234348004	
+a3220231000006118	14	Hypochromic microcytic anaemia	b44666001	
+a4761131000006119	14	Folate deficiency anaemia due to liver disorders	b191150003	
+a293996018	13	Other enzyme deficiency haemolytic anaemia	b38911009	
+a294599013	13	[X]Aplastic and other anaemias	b271737000	
+a6904741000006113	12	Sickle cell anaemia crisis	b417279003	Inherited
+a6844061000006114	12	Autoimmune hemolytic anemia	b413603009	
+a1758731000006113	12	Seen in Sickle Cell and Thalassaemia clinic	b1758731000006109	Inherited
+a2907361000006118	11	Sickle cell-haemoglobin D disease	b25472008	Inherited
+a7615331000006115	11	Anaemia in chronic kidney disease	b707323002	
+a14056171000006115	11	Delta beta thalassaemia	b16360009	Inherited
+a479141000006117	10	Amino-acid deficiency anaemia	b85746008	
+a3572571000006111	10	Beta thalassemia	b65959000	Inherited
+a294602015	10	[X]Other specified aplastic anaemias	b306058006	
+a351137013	10	Acquired haemolytic anaemia with haemoglobinuria NEC	b191222008	
+a804971000006111	10	Goat's milk anaemia	b15332004	
+a35611001	10	"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness"	b237617006	
+a294235018	10	Secondary sideroblastic anaemia due to drugs and toxins	b191262007	
+a1208486100000611	10	Vasoocclusive pain episode in sickle cell disease	b769167005	Inherited
+a3216191000006116	9	Hypochromic anaemia	b44452003	
+a81385100000611	9	Haemolytic anaemia due to triose phosphate isomerase deficiency	b191179005	
+a5063281000006117	9	Dilutional anaemia	b234346000	
+a294596018	9	[X]Other acquired haemolytic anaemias	b4854004	
+a1014411000006112	9	Adverse reaction to Drugs Used In Megaloblastic Anaemias	b1014411000006108	
+a4392811000006113	9	Sickle cell anemia	b127040003	Inherited
+a3866951000006118	8	Pernicious anemia	b84027009	
+a3220221000006116	8	Hypochromic microcytic anemia	b44666001	
+a7857811000006111	8	Iron deficiency anaemia due to blood loss	b724556004	
+a3255321000006116	8	Normocytic normochromic anemia	b46737006	
+a5063961000006118	7	Alpha-beta thalassaemia	b234389001	Inherited
+a363101000006116	7	Non megaloblastic anaemia associated with nutritional deficiency	b52565000	
+a316946018	7	"[X]Other congenital anaemias, not elsewhere classified"	b63565007	Inherited
+a1815751000006117	7	Refractory anaemia without ring sideroblasts	b189509003	
+a3892431000006116	7	Folate deficiency anemia	b85649008	
+a4417941000006111	6	Refractory anaemia	b128845005	
+a3220211000006112	6	Microcytic hypochromic anemia	b44666001	
+a293966011	6	Other specified other nutritional deficiency anaemia	b267513007	
+a787881000006114	6	Hypoplastic anaemia due to radiation	b191247005	
+a3910131000006117	6	Beta zero thalassaemia	b86715000	Inherited
+a2513471000006116	6	Thalassaemia intermedia	b934007	Inherited
+a351261000000114	6	Hypoplastic haemolytic and renal anaemia drugs Band 2	b221241000000101	
+a294098012	6	Secondary warm-type haemolytic anaemia	b191213007	
+a5950351000006113	6	Aplastic anemia	b306058006	
+a5063311000006115	6	Anemia of chronic disease	b234347009	
+a47726801	5	Drug-induced enzyme deficiency anaemia	b15276008	
+a35446701	5	Secondary Fanconi syndrome	b236467001	
+a7826171000006113	5	IRIDA (iron-refractory iron deficiency anemia) syndrome	b722005000	
+a3260051000006113	5	Sickle cell-haemoglobin E disease	b47024008	Inherited
+a7730691000006117	5	Alpha thalassaemia X-linked intellectual disability syndrome	b715342005	Inherited
+a294583019	5	[X]Other anaemias due to enzyme disorders	b271737000	
+a29396501	5	Anaemia due to vitamin E deficiency	b24962009	
+a29398601	5	Haemolytic anaemia due to glutathione metabolism disorder	b191170009	
+a294004018	5	Anaemia due to disorders of nucleotide metabolism	b191180008	
+a6906661000006112	5	Sickle cell anemia with crisis	b417425009	Inherited
+a12059351000006112	5	Anaemia due to and following chemotherapy	b767657005	
+a14616211000006115	5	HNSHA (hereditary nonspherocytic haemolytic anaemia) due to pyruvate kinase deficiency	b74703006	Inherited
+a294115013	4	Non-autoimmune haemolytic anaemia NOS	b191216004	
+a294606017	4	[X]Other sideroblastic anaemias	b41841004	
+a294202011	4	Aplastic anaemia due to radiation	b191247005	
+a4593181000006116	4	Mean corpuscular hemoglobin concentration (MCHC) - low	b165447008	Inherited
+a787891000006112	4	Hypoplastic anaemia due to toxic cause	b191248000	
+a6475961000006116	4	Perinatal anaemia	b387702001	
+a6352641000006114	4	Iron deficiency anaemia secondary to inadequate dietary iron intake	b371315009	
+a3514451000006116	4	G6PD deficiency anaemia	b62403005	
+a5587311000006113	4	Physiological anaemia of infancy	b276578004	
+a4796531000006117	4	Iron deficiency anemia of pregnancy	b199248002	
+a5500961000006112	3	Acute blood loss anaemia	b267530009	
+a6873191000006118	3	Refractory anaemia with excess blasts-2	b415284008	
+a5063661000006113	3	Combined deficiency anaemia	b234364007	
+a4173341000006114	3	"Myelodysplastic syndrome: Refractory anaemia, without ringed sideroblasts, without excess blasts"	b109996008	
+a1014421000006116	3	Adverse reaction to Drugs Used In Hypoplastic And Haemolytic Anaemias	b1014421000006100	
+a3500731000006113	3	Fanconi-Bickel syndrome	b61598006	
+a5721091000006118	3	"Deficiency anaemias, excluding iron"	b286928002	
+a4393301000006114	3	Cold Donath Landsteiner type autoimmune haemolytic anaemia	b127057004	
+a274322100000611	3	Goats' milk anaemia	b15332004	
+a3620691000006115	3	alpha Thalassemia	b68913001	Inherited
+a2790391000006118	3	Congenital Heinz body haemolytic anaemia	b18273004	Inherited
+a2759411000006117	3	F thalassaemia	b16360009	Inherited
+a3892461000006113	3	Folic acid deficiency anaemia	b85649008	
+a988851000006114	3	Anaemias	b668381000000100	
+a3922741000006118	3	Iron deficiency anaemia syndrome	b87522002	
+a5768351000006111	3	Simple chronic anaemia	b291262006	
+a3260101000006113	3	Sickle cell anaemia with haemoglobin E disease	b47024008	Inherited
+a3227541000006114	2	Anaemia due to multiple mechanisms	b45098004	
+a156131000006115	2	Scorbutic anaemia	b191161006	
+a2808561000006117	2	Thalassemia minor	b19442009	Inherited
+a6614431000006113	2	AIHA - Cold autoimmune hemolytic anemia	b398937006	
+a3145291000006113	2	Thalassemia	b40108008	Inherited
+a5500771000006119	2	Deficiency anemias	b267513007	
+a12719241000006114	2	"[X]Vitamin B12, folic acid and other anti-megaloblastic anaemia preparations causing adverse effects in therapeutic use"	b421261000000104	
+a2938151000006111	2	Anemia of pregnancy	b27342004	
+a3121911000006111	2	Anaemic infarct	b38640009	
+a3216181000006119	2	Hypochromic anemia	b44452003	
+a3327511000006116	2	MAHA - Microangiopathic haemolytic anaemia	b51071000	
+a6352651000006111	2	Iron deficiency anemia secondary to inadequate dietary iron intake	b371315009	
+a294182019	2	Constitutional aplastic anaemia NOS	b267525005	
+a350721000006114	2	[X] Adverse react to liver preps & other antianaemic agents	b293304001	
+a6842761000006116	2	Anaemia due to blood loss	b413532003	
+a7857821000006115	2	Iron deficiency anemia due to blood loss	b724556004	
+a2562461000006118	2	Warm autoimmune hemolytic anemia	b3978000	
+a4173361000006113	2	Refractory anaemia with ringed sideroblasts (clinical)	b109998009	
+a4173441000006118	2	RAEB-T - Refractory anaemia with excess blasts in transformation	b110000005	
+a5064001000006117	2	Sickle cell anaemia with high haemoglobin F	b234391009	Inherited
+a3785381000006118	2	Anaemia due to unknown mechanism	b79035003	
+a813801000006111	2	Haemolytic anaemia due glutathione metabolism disorder NOS	b191170009	
+a476147100000611	2	Beta thalassemia intermedia	b191189009	Inherited
+a4796481000006115	2	"Maternal anaemia in pregnancy, before birth"	b199246003	
+a294201016	2	Radiation aplastic anaemia	b191247005	
+a294203018	2	Aplastic anaemia due to toxic cause	b191248000	
+a15070791000006112	2	Haemolytic anaemia due to erythrocyte adenosine deaminase overproduction	b5315003	
+a3542731000006119	2	Vitamin B12 deficiency (non anaemic)	b64117007	
+a3542741000006112	2	Vitamin B12 deficiency (non anemic)	b64117007	
+a3261611000006114	2	Anemia of prematurity	b47100003	
+a3273911000006114	2	Megaloblastic anaemia due to chronic haemolytic anaemia	b47844003	
+a506384100000611	2	Maternal autoimmune haemolytic anaemia	b234381003	
+a7769041000006118	1	Beta thalassemia X-linked thrombocytopenia syndrome	b718196002	Inherited
+a7826161000006118	1	IRIDA (iron-refractory iron deficiency anaemia) syndrome	b722005000	
+a7684041000006113	1	Microcytic anaemia and hepatic iron overload	b711161006	
+a590151000006112	1	Constitutional aplastic anaemia without malformation	b28975000	
+a7951921000006113	1	Secondary autoimmune haemolytic anaemia co-occurrent and due to lymphoproliferative disorder	b732963000	
+a468581000006117	1	Adverse reaction to liver preps+other antianaemic agent NOS	b293304001	
+a468571000006115	1	Adverse reaction to liver preps and other antianaemic agents	b293304001	
+a12084851000006113	1	Vaso-occlusive pain co-occurrent and due to sickle cell disease	b769167005	Inherited
+a32415701	1	Antianaemic poisoning NOS	b90687000	
+a8212361000006113	1	Anaemia in chronic kidney disease stage 5	b691411000119101	
+a9326831000006113	1	Anaemia following acute postoperative blood loss	b10762261000119105	
+a14175011000006111	1	Anaemia due to chronic kidney disease stage 1	b691381000119104	
+a294179012	1	Other specified constitutional aplastic anaemia	b267525005	
+a14474281000006114	1	Anaemia due to enzyme disorder	b351181000119103	
+a8261001000006118	1	Education about sickle cell disease and thalassaemia	b811421000000105	Inherited
+a691050100000611	1	Sickle cell-haemoglobin C disease without crisis	b417683006	Inherited
+a6904731000006115	1	Sickle cell anemia crisis	b417279003	Inherited
+a6897941000006112	1	Sickle cell-thalassemia disease with crisis	b416826005	Inherited
+a6842771000006111	1	Anemia due to blood loss	b413532003	
+a785784100000611	1	Acquired iron deficiency anaemia due to blood loss	b724556004	
+a7869351000006117	1	Severe congenital hypochromic sideroblastic anemia	b725463007	Inherited
+a7087751000006112	1	Drug induced anaemia	b428383000	
+a7087761000006114	1	Drug induced anemia	b428383000	
+a7087781000006116	1	Anaemia caused by medication	b428383000	
+a98611000006117	1	Toxic aplastic anaemia	b191248000	
+a7288151000006116	1	Acute sickle cell splenic sequestration crisis	b444108000	Inherited
+a3300611000006113	1	Vitamin B>12< deficiency anemia	b49472006	
+a7684021000006118	1	Microcytic anaemia with liver iron overload	b711161006	
+a7615371000006117	1	Anaemia in end stage renal disease	b707324008	
+a290745100000611	1	Sickle cell anaemia with haemoglobin D disease	b25472008	Inherited
+a7615361000006112	1	Anemia in chronic kidney disease	b707323002	
+a6888471000006113	1	Sickle cell disease without crisis	b416180004	Inherited
+a550095100000611	1	Anaemia due to acute blood loss	b267530009	
+a5500971000006117	1	Acute post-haemorrhagic anaemia	b267530009	
+a459224100000611	1	Hemoglobin very low	b165396004	
+a2992581000006115	1	Fanconi anemia	b30575002	Inherited
+a4575651000006113	1	On examination - equivocally anaemic	b164141009	
+a4575611000006112	1	On examination - not clinically anemic	b164140005	
+a3495381000006114	1	Hemolytic anemia	b61261009	
+a4417991000006119	1	Refractory anemia with ringed sideroblasts	b128846006	
+a4761651000006115	1	Secondary cold-type hemolytic anemia	b191212002	
+a2541821000006111	1	Leukoerythroblastic anemia	b2694001	
+a3671111000006111	1	Blackfan-Diamond anemia	b71988008	
+a5063211000006112	1	Iron deficiency without anemia	b234340006	
+a3910081000006117	1	beta^0^ Thalassaemia	b86715000	Inherited
+a4418081000006115	1	Refractory anaemia with excess blasts in transformation	b128848007	
+a4393161000006112	1	Secondary autoimmune haemolytic anaemia	b127050002	
+a6614341000006111	1	Cold type haemolytic anaemia	b398937006	
+a3726951000006114	1	Homozygous thalassemia	b75451007	Inherited
+a813821000006118	1	Haemolytic anaemia due to glutathione metabolism disorder OS	b191170009	
+a5094671000006117	1	Fanconi-like syndrome	b236469003	
+a4529351000006119	1	Family history: Thalassemia	b160319008	Inherited
+a4575711000006116	1	On examination - profoundly anemic	b164143007	
+a2541791000006119	1	Myelophthisic anaemia	b2694001	
+a2541841000006116	1	Anaemia associated with marrow infiltration	b2694001	
+a3527196013	1	Anemia due to metabolic disorder	b737220002	
+a399217012	1	Constitutional aplastic anaemia with malformation	b267524009	
+a3304631000006114	1	Anaemia of chronic renal insufficiency	b49708008	
+a3358711000006111	1	CDA - Congenital dyserythropoietic anaemia	b52951008	Inherited
+a3216161000006112	1	Normocytic hypochromic anaemia	b44452003	
+a3467221000006113	1	Congenital dyserythropoietic anaemia type I	b59548005	Inherited
+a3362131000006113	1	Megaloblastic anemia	b53165003	
+a3408101000006111	1	Acquired aplastic anemia	b55907008	
+a5914361000006111	1	Normocytic anemia following acute bleed	b303060002	
+a2808521000006111	1	Heterozygous thalassemia	b19442009	Inherited
+a3186721000006116	1	Congenital haemolytic anaemia	b42601008	Inherited
+a3070821000006114	1	Sickle cell haemoglobin C	b35434009	Inherited
+a307071100000611	1	Sickle cell-hemoglobin C disease	b35434009	Inherited
